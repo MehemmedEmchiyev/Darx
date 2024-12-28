@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Armata&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@font-face {
+    font-family: "Museo Sans";
+    src: url('Museo/MuseoSans_500.otf');
+}
+@font-face {
+    font-family: "Caviar Dreams";
+    src: url('Caviar/CaviarDreams.ttf');
+}
+@font-face {
+    font-family: "Georgia";
+    src: url('Georgia/Georgia.ttf');
+}
